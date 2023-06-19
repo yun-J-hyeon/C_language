@@ -1,0 +1,25 @@
+#include "main.h"
+
+void main_control();
+void game_system();
+void ending();
+void draw_title();
+void draw_screen();
+void print_how_to_play();
+void print_how_to_play_sec();
+void print_game_quit();
+void draw_game();
+void draw_gamescreen();
+void draw_intelli();
+void draw_mental();
+void draw_physical();
+void draw_death();
+void draw_gongback();
+void draw_intelli_ending();
+void print_intelli_ending();
+void draw_mental_ending();
+void print_mental_ending();
+void draw_physical_ending();
+void print_physical_ending();
+void draw_death_ending();
+void print_death_ending();
